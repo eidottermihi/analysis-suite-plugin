@@ -1,33 +1,33 @@
 [submodule "warnings"]
 	path = warnings
-	url = git@github.com:jenkinsci/warnings-plugin.git
+	url = https://github.com/eidottermihi/warnings-plugin.git
 [submodule "analysis-core"]
 	path = analysis-core
-	url = git@github.com:jenkinsci/analysis-core-plugin.git
+	url = https://github.com/eidottermihi/analysis-core-plugin.git
 [submodule "analysis-pom"]
 	path = analysis-pom
-	url = git@github.com:jenkinsci/analysis-pom-plugin.git
+	url = https://github.com/eidottermihi/analysis-pom-plugin.git
 [submodule "analysis-test"]
 	path = analysis-test
-	url = git@github.com:jenkinsci/analysis-test-plugin.git
+	url = https://github.com/eidottermihi/analysis-test-plugin.git
 [submodule "analysis-config"]
 	path = analysis-config
-	url = git@github.com:jenkinsci/analysis-config-plugin.git
+	url = https://github.com/eidottermihi/analysis-config-plugin.git
 [submodule "analysis-collector"]
 	path = analysis-collector
-	url = git@github.com:jenkinsci/analysis-collector-plugin.git
+	url = https://github.com/eidottermihi/analysis-collector-plugin.git
 [submodule "checkstyle"]
 	path = checkstyle
-	url = git@github.com:jenkinsci/checkstyle-plugin.git
+	url = https://github.com/eidottermihi/checkstyle-plugin.git
 [submodule "dry"]
 	path = dry
-	url = git@github.com:jenkinsci/dry-plugin.git
+	url = https://github.com/eidottermihi/dry-plugin.git
 [submodule "findbugs"]
 	path = findbugs
-	url = git@github.com:jenkinsci/findbugs-plugin.git
+	url = https://github.com/eidottermihi/findbugs-plugin.git
 [submodule "pmd"]
 	path = pmd
-	url = git@github.com:jenkinsci/pmd-plugin.git
+	url = https://github.com/eidottermihi/pmd-plugin.git
 [submodule "tasks"]
 	path = tasks
-	url = git@github.com:jenkinsci/tasks-plugin.git
+	url = https://github.com/eidottermihi/tasks-plugin.git
