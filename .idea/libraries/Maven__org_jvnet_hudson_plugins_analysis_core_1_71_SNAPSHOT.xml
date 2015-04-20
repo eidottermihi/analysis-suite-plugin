@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jvnet.hudson.plugins:analysis-core:1.71-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jvnet/hudson/plugins/analysis-core/1.71-SNAPSHOT/analysis-core-1.71-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jvnet/hudson/plugins/analysis-core/1.71-SNAPSHOT/analysis-core-1.71-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jvnet/hudson/plugins/analysis-core/1.71-SNAPSHOT/analysis-core-1.71-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
