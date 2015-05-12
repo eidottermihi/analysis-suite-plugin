@@ -28,6 +28,7 @@
     <option name="priority" value="Low" />
     <option name="excludeFilter" value="$PROJECT_DIR$/analysis-config/etc/findbugs-exclusion-filter.xml" />
   </component>
+  <component name="IdProvider" IDEtalkID="219A1B755D5D1B930B0A03ABF6463DAA" />
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
@@ -36,7 +37,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="false" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
   <component name="RegexUtilComponent" text="aaa.class: warning: Cannot find annotation method 'xxx()' in type 'yyyy': class file for fully.qualified.ClassName not found&#10;&#10;" flags="0" regex="(.*class)\s*:\s*warning.*:\s*(.*)" mode="0" />
@@ -44,3 +45,4 @@
     <option name="suppComments" value="[]" />
   </component>
 </project>
+

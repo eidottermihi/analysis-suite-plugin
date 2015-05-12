@@ -33,14 +33,10 @@
         </option>
         <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
         <option name="WRAP_COMMENTS" value="true" />
-        <JavaCodeStyleSettings>
-          <option name="CLASS_NAMES_IN_JAVADOC" value="3" />
-        </JavaCodeStyleSettings>
         <XML>
           <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
         </XML>
         <codeStyleSettings language="ECMA Script Level 4">
-          <option name="WRAP_COMMENTS" value="true" />
           <option name="PARENT_SETTINGS_INSTALLED" value="true" />
         </codeStyleSettings>
         <codeStyleSettings language="JAVA">
@@ -54,11 +50,9 @@
           <option name="FOR_BRACE_FORCE" value="3" />
         </codeStyleSettings>
         <codeStyleSettings language="JavaScript">
-          <option name="WRAP_COMMENTS" value="true" />
           <option name="PARENT_SETTINGS_INSTALLED" value="true" />
         </codeStyleSettings>
         <codeStyleSettings language="TypeScript">
-          <option name="WRAP_COMMENTS" value="true" />
           <option name="PARENT_SETTINGS_INSTALLED" value="true" />
         </codeStyleSettings>
         <codeStyleSettings language="XML">
@@ -72,3 +66,4 @@
     <option name="USE_PER_PROJECT_SETTINGS" value="true" />
   </component>
 </project>
+
