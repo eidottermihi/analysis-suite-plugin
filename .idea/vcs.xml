@@ -14,6 +14,7 @@
     <mapping directory="$PROJECT_DIR$/pmd" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/tasks" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/warnings" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../database-h2-plugin" vcs="Git" />
   </component>
 </project>
 

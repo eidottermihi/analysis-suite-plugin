@@ -34,6 +34,7 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../acceptance-test-harness/pom.xml" />
+        <option value="$PROJECT_DIR$/../database-h2-plugin/pom.xml" />
       </list>
     </option>
   </component>

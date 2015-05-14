@@ -29,6 +29,7 @@
         <module name="analysis-core" />
         <module name="analysis-test" />
         <module name="checkstyle" />
+        <module name="database-h2" />
         <module name="dry" />
         <module name="findbugs" />
         <module name="library" />
@@ -47,6 +48,7 @@
       <module name="analysis-suite" target="1.6" />
       <module name="analysis-test" target="1.6" />
       <module name="checkstyle" target="1.6" />
+      <module name="database-h2" target="1.5" />
       <module name="dry" target="1.6" />
       <module name="findbugs" target="1.6" />
       <module name="library" target="1.5" />
